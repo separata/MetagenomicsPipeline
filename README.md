@@ -1,2 +1,2 @@
-# AntarcticaMetagenomics
-Pipeline seguida para obtener la metataxonomía de muestras ambientales.
+# MetagenomicsPipeline
+Pipeline utilizada para obtener la metataxonomía de muestras ambientales.
