@@ -10,5 +10,5 @@ qiime tools import \
 qiime demux summarize \
     --i-data <demux.qza> \
     --o-visualization <demux.qzv>
-#Este archivo se puede visualizar en Qiime2. Calidad de las seceuncias. Mínimo debemos coger 400-500 pares de bases.
+#Este archivo se puede visualizar en Qiime2. Calidad de las secuencias. Mínimo debemos coger 400-500 pares de bases.
 
